@@ -62,11 +62,11 @@
                         <div class="loginmessage"></div>
                         <div class="form-group">
                             <label for="loginemail" class="sr-only">Email:</label>
-                            <input type="email" class="form-control name="loginemail" id="loginemail" placeholder="Email" maxlength="50">    
+                            <input type="email" class="form-control" name="loginemail" id="loginemail" placeholder="Email" maxlength="50">    
                         </div>
                         <div class="form-group">
                             <label for="loginpassword" class="sr-only">Password:</label>
-                            <input type="password" class="form-control name="loginpassword" id="loginpassword" placeholder="Password" maxlength="30">    
+                            <input type="password" class="form-control" name="loginpassword" id="loginpassword" placeholder="Password" maxlength="30">    
                         </div>
                         <div class="checkbox">
                             <label for=""><input type="checkbox" name="rememberme" id="rememberme">Remember me</label>
@@ -103,19 +103,19 @@
                         <div class="signupmessage"></div>
                         <div class="form-group">
                             <label for="username" class="sr-only">Username:</label>
-                            <input type="text" class="form-control name="username" id="username" placeholder="Username" maxlength="30">    
+                            <input type="text" class="form-control" name="username" id="username" placeholder="Username" maxlength="30">    
                         </div>
                         <div class="form-group">
                             <label for="email" class="sr-only">Email:</label>
-                            <input type="email" class="form-control name="email" id="email" placeholder="Email Adderss" maxlength="50">    
+                            <input type="email" class="form-control" name="email" id="email" placeholder="Email Adderss" maxlength="50">    
                         </div>
                         <div class="form-group">
                             <label for="password" class="sr-only">Choose a password:</label>
-                            <input type="password" class="form-control name="password" id="password" placeholder="Choose a password" maxlength="30">    
+                            <input type="password" class="form-control" name="password" id="password" placeholder="Choose a password" maxlength="30">    
                         </div>
                         <div class="form-group">
                             <label for="password2" class="sr-only">Confirm Password:</label>
-                            <input type="password" class="form-control name="password2" id="password2" placeholder="Confirm password" maxlength="30">    
+                            <input type="password" class="form-control" name="password2" id="password2" placeholder="Confirm password" maxlength="30">    
                         </div>
                         <div class="modal-footer">
                             <input type="submit" class="btn green" name="signup" value="Sign up">
@@ -144,7 +144,7 @@
                         <div class="forgotpasswordmessage"></div>
                         <div class="form-group">
                             <label for="forgotemail" class="sr-only">Email:</label>
-                            <input type="email" class="form-control name="forgotemail" id="forgotemail" placeholder="Email" maxlength="50">    
+                            <input type="email" class="form-control" name="forgotemail" id="forgotemail" placeholder="Email" maxlength="50">    
                         </div>                      
                         <div class="modal-footer">
                             <button class="btn btn-default pull-left" type="button" data-dismiss="modal" data-target="#signupModal" data-toggle="modal">Register</button>
