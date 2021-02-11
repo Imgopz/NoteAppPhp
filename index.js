@@ -8,6 +8,7 @@ $("#signupform").submit(function(event){
     console.log(datatopost);
 
     // send them to signup.php using AJAX
+    
 })
     
     
